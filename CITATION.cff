@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or its synthetic camera-robustness benchmark, please
+  cite the software using this metadata.
+title: "PhyCam-Eval"
+type: software
+authors:
+  - family-names: Nair
+    given-names: Parthiv
+    email: parthivnair@harvard.edu
+    affiliation: Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University
+version: 0.1.0
+license: MIT
+repository-code: https://github.com/parthiv-nair/phycam-eval
+abstract: >-
+  A stage-aware physical camera forward-model reference for object-detection
+  robustness evaluation, with content-addressed study and validation contracts.
+keywords:
+  - camera image formation
+  - computer vision
+  - Fourier optics
+  - object detection
+  - robustness evaluation
